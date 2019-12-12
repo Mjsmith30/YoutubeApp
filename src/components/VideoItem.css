@@ -27,7 +27,9 @@ body{
     border-style: groove;
     font-family: 'Permanent Marker';
     text-decoration: underline;
+    box-shadow: 5px 10px #888888;
 }
+
 
 p { 
     position: relative;
