@@ -31,7 +31,7 @@ class App extends React.Component {
     render() {
         return (
            
-            <div className="ui container">
+            <div className="ui container ">
                  <h1 className="title">MYTUBE</h1>
                 <SearchBar onFormSubmit={this.onTermSubmit} />
 
